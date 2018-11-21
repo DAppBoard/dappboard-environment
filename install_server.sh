@@ -10,4 +10,9 @@ apt-get install build-essential
 
 npm install -g pm2
 
-apt-get install git htop
+pm2 install pm2-logrotate
+
+apt-get install git htop emacs-nox
+
+# Clone the ETL repository
+git clone https://github.com/DAppBoard/ethereum-etl.git
