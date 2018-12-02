@@ -5,8 +5,10 @@ curl -sL https://deb.nodesource.com/setup_6.x -o nodesource_setup.sh
 #Install it
 bash nodesource_setup.sh
 sudo apt-get install nodejs
+curl -L https://npmjs.org/install.sh | sudo sh
 
-apt-get install build-essential
+
+apt-get install build-essential python
 
 npm install -g pm2
 
