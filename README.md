@@ -1,7 +1,7 @@
 # dappboard-environment
 
-Install everything for running DAppBoard tools.
+Install everything for running [DAppBoard](http://dappboard.com).
 
-git clone https://github.com/DAppBoard/dappboard-environment.git
+```git clone https://github.com/DAppBoard/dappboard-environment.git```
 
-cd dappboard-environment/
+You are lost? [Check the documentation on how to run your own DAppBoard!](https://github.com/DAppBoard/dappboard-documentation)
