@@ -17,3 +17,5 @@ pm2 install pm2-logrotate
 # Clone the ETL and Web repository
 git clone https://github.com/DAppBoard/dappboard-etl.git
 git clone https://github.com/DAppBoard/dappboard-web.git
+
+cp dappboard-environment/ecosystem.config.js .
