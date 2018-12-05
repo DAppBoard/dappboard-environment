@@ -18,4 +18,4 @@ pm2 install pm2-logrotate
 git clone https://github.com/DAppBoard/dappboard-etl.git
 git clone https://github.com/DAppBoard/dappboard-web.git
 
-cp dappboard-environment/ecosystem.config.js .
+cp dappboard-environment/etl.ecosystem.config.js .
