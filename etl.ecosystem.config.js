@@ -13,7 +13,7 @@ module.exports = {
     name: 'scrape_tokens',
     script: 'dappboard-etl/etl/scrape_tokens.js',
     autorestart: true,
-    cron_restart: "0 * * * * *",
+    cron_restart: "0 0 * * * *",
   }],
 
 };
