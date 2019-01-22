@@ -11,7 +11,7 @@ apt-get install -y nodejs
 # Python is needed for some of the nodejs modules
 apt-get install -y build-essential python git htop emacs-nox
 
-npm install -g pm2
+npm install -g pm2 sails
 
 pm2 install pm2-logrotate
 
